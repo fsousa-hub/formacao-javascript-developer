@@ -11,9 +11,9 @@ VSCode
 JavaScript
 
 ## Assuntos abordados 💬
-Váriaveis e Operadores
-Estruturas Condicionais
-Praticando com Váriaveis, Operadores e Estruturas Condicionais
+- Váriaveis e Operadores
+- Estruturas Condicionais
+- Praticando com Váriaveis, Operadores e Estruturas Condicionais
 
 ## Como a gente roda o código? 😲
 Abrir o terminal no VSCode e executar o comando "**node**" seguido do arquivo com a extensão JS.
